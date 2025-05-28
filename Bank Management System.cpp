@@ -2,7 +2,7 @@
 #include< fstream>
 using namespace std ;
 
-class Account{//Creating an account named class
+class Account{
     //Im using alass for the first time, i havent studied this befire
     public:
      int  accNo ;
